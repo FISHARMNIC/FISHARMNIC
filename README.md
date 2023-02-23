@@ -4,3 +4,4 @@
 * [Pong for the Ti-84](https://github.com/FISHARMNIC/TI84-pong)
 * [C HTTP server library](https://github.com/FISHARMNIC/Chttp)
 * [Browser based assembly interpreter](https://github.com/FISHARMNIC/online-assembly-simulator)
+* [Simple Operating System](https://github.com/FISHARMNIC/Tachyon-OS)
