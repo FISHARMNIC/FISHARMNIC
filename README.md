@@ -5,3 +5,4 @@
 * [C HTTP server library](https://github.com/FISHARMNIC/Chttp)
 * [Browser based assembly interpreter](https://github.com/FISHARMNIC/online-assembly-simulator)
 * [Simple Operating System](https://github.com/FISHARMNIC/Tachyon-OS)
+* [My own formula for calculating square roots](https://github.com/FISHARMNIC/sqrtOpt)
