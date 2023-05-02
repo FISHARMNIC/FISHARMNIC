@@ -7,3 +7,4 @@
 * [Simple Operating System](https://github.com/FISHARMNIC/Tachyon-OS)
 * [My own formula for calculating square roots](https://github.com/FISHARMNIC/sqrtOpt)
 * [Classes in C using macros](https://github.com/FISHARMNIC/C-classes)
+* [Wave function collapse](https://github.com/FISHARMNIC/wfc)
