@@ -1,4 +1,4 @@
-# ***** First, check my pinned for my best projects  ******
+# ***** First, check my pinned ******
 # Best Projects:
 * [HAM Compiled Language](https://github.com/FISHARMNIC/ham-lang)
 * [C Compiler in JS](https://github.com/FISHARMNIC/C-compiler)
