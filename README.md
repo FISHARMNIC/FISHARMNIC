@@ -1,5 +1,5 @@
-# First, check my pinned for my best projects  
-# Other repos:
+# ***** First, check my pinned for my best projects  ******
+# Here are some other cool things I made:
 * [C raytracer](https://github.com/FISHARMNIC/C-raytracer)
 * [WIP mixed-level language](https://github.com/FISHARMNIC/Asap-Lang)
 * [Pong for the Ti-84](https://github.com/FISHARMNIC/TI84-pong)
