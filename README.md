@@ -2,8 +2,8 @@
 # Best Projects:
 * [HAM Compiled Language](https://github.com/FISHARMNIC/ham-lang)
 * [C Compiler in JS](https://github.com/FISHARMNIC/C-compiler)
-* [In-browser Assembly Simulator] (https://github.com/FISHARMNIC/online-assembly-simulator)
-* [C HTTP Server Library] (https://github.com/FISHARMNIC/Chttp)
+* [In-browser Assembly Simulator](https://github.com/FISHARMNIC/online-assembly-simulator)
+* [C HTTP Server Library](https://github.com/FISHARMNIC/Chttp)
 
 # Here are some other cool things I made:
 * [C raytracer](https://github.com/FISHARMNIC/C-raytracer)
