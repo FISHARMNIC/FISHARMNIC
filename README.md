@@ -7,6 +7,7 @@
 
 # Here are some other cool things I made:
 * [C raytracer](https://github.com/FISHARMNIC/C-raytracer)
+* [JS raytracer](https://github.com/FISHARMNIC/jsRaytracer)
 * [WIP mixed-level language](https://github.com/FISHARMNIC/Asap-Lang)
 * [Pong for the Ti-84](https://github.com/FISHARMNIC/TI84-pong)
 * [Browser based assembly interpreter](https://github.com/FISHARMNIC/online-assembly-simulator)
