@@ -1,4 +1,10 @@
 # ***** First, check my pinned ******
+
+<img width="150" alt="Screen Shot 2024-02-10 at 9 33 08 AM" src="https://github.com/FISHARMNIC/FISHARMNIC/assets/73864341/80f4df7d-baa0-42a1-93d3-64739a594dd2">
+
+<img width="140" alt="Screen Shot 2024-02-10 at 9 33 08 AM" src="https://github.com/FISHARMNIC/FISHARMNIC/assets/73864341/d1a17f1d-0ee7-496b-9a95-8ba93e434bfe">
+
+
 # Best Projects:
 * [Mixed level compiled language running on linux](https://github.com/FISHARMNIC/proglan2/tree/main)
 * [HAM Compiled Language](https://github.com/FISHARMNIC/ham-lang)
