@@ -1,4 +1,11 @@
 # Low level enthusiast, programming language designer
+## CodingLang -> C-compiler -> ASAP -> Lang2 -> HAM -> HAM`
+* CodingLang: First language ever made, very rudimentary
+* C-compiler: Big step in parsing and understanding of assembly
+* ASAP      : Idea of implicit typing and simplicity
+* Lang2     : Expanded ideas of C-compiler into own language
+* HAM       : Same idea as ASAP, but actually executed this time
+* HAM`      : Final ongoing project. Features much more than HAM and runs native
 
 <img width="150" alt="Screen Shot 2024-02-10 at 9 33 08 AM" src="https://github.com/FISHARMNIC/FISHARMNIC/assets/73864341/80f4df7d-baa0-42a1-93d3-64739a594dd2">
 
