@@ -7,6 +7,10 @@
 * HAM       : Same idea as ASAP, but actually executed this time
 * HAM`      : Final ongoing project. Features much more than HAM and runs native
 
+
+
+<img width="150" alt="2024-02-10 at 9 33 08 AM" src="https://github.com/FISHARMNIC/FISHARMNIC/assets/73864341/565c31fc-8ee8-4a84-87bc-b8e54855f673">
+
 <img width="150" alt="Screen Shot 2024-02-10 at 9 33 08 AM" src="https://github.com/FISHARMNIC/FISHARMNIC/assets/73864341/80f4df7d-baa0-42a1-93d3-64739a594dd2">
 
 <img width="140" alt="Screen Shot 2024-02-10 at 9 33 08 AM" src="https://github.com/FISHARMNIC/FISHARMNIC/assets/73864341/d1a17f1d-0ee7-496b-9a95-8ba93e434bfe">
