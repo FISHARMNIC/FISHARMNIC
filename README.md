@@ -11,6 +11,7 @@ I like everything low-level, and love to design programming languages
 * [HAM Compiled Language](https://github.com/FISHARMNIC/ham-lang)
 * [My own CPU](https://github.com/FISHARMNIC/CPU)
 * [My own (WIP) OS](https://github.com/FISHARMNIC/osWIP)
+* [C HTTP Server Library](https://github.com/FISHARMNIC/Chttp)
 
 # Here are some other cool things I made:
 * [C Compiler in JS](https://github.com/FISHARMNIC/C-compiler)
@@ -19,5 +20,4 @@ I like everything low-level, and love to design programming languages
 * [My own formula for calculating square roots](https://github.com/FISHARMNIC/sqrtOpt)
 * [Classes in C using macros](https://github.com/FISHARMNIC/C-classes)
 * [Wave function collapse](https://github.com/FISHARMNIC/wfc)
-* [C HTTP Server Library](https://github.com/FISHARMNIC/Chttp)
 * [In-browser Assembly Simulator](https://github.com/FISHARMNIC/online-assembly-simulator)
