@@ -14,6 +14,7 @@ I like everything low-level, and love to design programming languages
 * [C HTTP Server Library](https://github.com/FISHARMNIC/Chttp)
 
 # Here are some other cool things I made:
+* [Bootsector games](https://github.com/FISHARMNIC/bootSectGames/tree/main)
 * [C Compiler in JS](https://github.com/FISHARMNIC/C-compiler)
 * [C raytracer](https://github.com/FISHARMNIC/C-raytracer)
 * [JS raytracer](https://github.com/FISHARMNIC/jsRaytracer)
