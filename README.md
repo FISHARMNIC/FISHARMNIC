@@ -7,7 +7,7 @@ I like everything low-level, and love to design programming languages
 
 
 # Best Projects:
-* [HAM` Compiled Language](https://github.com/FISHARMNIC/proglan2_HAMprime)
+* [HAM` Compiled Language](https://github.com/FISHARMNIC/HAMprimeC2)
 * [HAM Compiled Language](https://github.com/FISHARMNIC/ham-lang)
 * [My own CPU](https://github.com/FISHARMNIC/CPU)
 * [My own (WIP) OS](https://github.com/FISHARMNIC/osWIP)
