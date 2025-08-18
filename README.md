@@ -1,7 +1,8 @@
 # Nicolas Quijano
 I like everything low-level. [website](https://fisharmnic.github.io/njquijano_website/html/index.html)
 # Best Projects:
-* [HAM` Compiled Language](https://github.com/FISHARMNIC/HAMprimeC2)
+* [Static JS Compiler](https://github.com/FISHARMNIC/Construct) (WIP)
+* [HAM' Compiled Language](https://github.com/FISHARMNIC/HAMprimeC2)
 * [My own CPU](https://github.com/FISHARMNIC/CPU)
 
 # Here are some other cool things I made:
