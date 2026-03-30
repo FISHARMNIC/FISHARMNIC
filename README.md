@@ -9,6 +9,7 @@ I like everything low-level. [website](https://fisharmnic.github.io/njquijano_we
 # Here are some other cool things I made:
 * [JS raytracer](https://github.com/FISHARMNIC/Raytracer)
 * [Laplace Solver and Visualizer](https://github.com/FISHARMNIC/Laplace-Visualization)
+* [Bode Magnitude Plot Visualizer](https://fisharmnic.github.io/TransferFunction/)
 * [My own formula for calculating square roots](https://github.com/FISHARMNIC/sqrtOpt)
 * [Wave function collapse](https://github.com/FISHARMNIC/wfc)
 * [My own (WIP) OS](https://github.com/FISHARMNIC/osWIP)
