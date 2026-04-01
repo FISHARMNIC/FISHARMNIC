@@ -1,5 +1,5 @@
 # Nicolas Quijano
-I like everything low-level. [website](https://fisharmnic.github.io/njquijano_website/html/index.html)
+I like everything low-level. [website](https://nquijano.net)
 # Best Projects:
 * [Static JS Compiler](https://github.com/FISHARMNIC/construct) (WIP)
 * [C Memory Visualizer](https://github.com/FISHARMNIC/codelet)
