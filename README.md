@@ -7,6 +7,7 @@ I like everything low-level. [website](https://nquijano.net)
 * [My own CPU](https://github.com/FISHARMNIC/CPU)
 
 # Here are some other cool things I made:
+* [Quantum Circuit Simulator](https://github.com/FISHARMNIC/QuantumCircuits/tree/main?tab=readme-ov-file)
 * [JS raytracer](https://github.com/FISHARMNIC/Raytracer)
 * [Laplace Solver and Visualizer](https://github.com/FISHARMNIC/Laplace-Visualization)
 * [Bode Magnitude Plot Visualizer](https://github.com/FISHARMNIC/TransferFunction/)
