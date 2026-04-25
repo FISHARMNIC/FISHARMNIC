@@ -2,6 +2,7 @@
 I like everything low-level. [website](https://nquijano.net)
 # Best Projects:
 * [Static JS Compiler](https://github.com/FISHARMNIC/construct) (WIP)
+* [My own (WIP) OS](https://github.com/FISHARMNIC/OS)
 * [C Memory Visualizer](https://github.com/FISHARMNIC/codelet)
 * [HAM' Compiled Language](https://github.com/FISHARMNIC/HAMprimeC2)
 * [My own CPU](https://github.com/FISHARMNIC/CPU)
@@ -14,4 +15,3 @@ I like everything low-level. [website](https://nquijano.net)
 * [My own formula for calculating square roots](https://github.com/FISHARMNIC/sqrtOpt)
 * [Bootsector Space Invaders](https://github.com/FISHARMNIC/bootSectGames/tree/main)
 * [Wave function collapse](https://github.com/FISHARMNIC/wfc)
-* [My own (WIP) OS](https://github.com/FISHARMNIC/OS)
